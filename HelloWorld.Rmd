@@ -4,4 +4,4 @@ author: "Krish Sundaresan"
 date: "January 25, 2015"
 output: html_document
 ---
-## This is a markdowm file
+## This is a markdown file
